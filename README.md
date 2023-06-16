@@ -1,6 +1,7 @@
 ## Note
 
-# replace private and public key in key folder and replace jwks in ./public/.well-known/jwks.json
+- replace private and public key in key folder and replace jwks in ./public/.well-known/jwks.json
+- test api service in ./test-api-service
 
 ## Description
 
