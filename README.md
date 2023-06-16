@@ -5,7 +5,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+JWKS implementation in nestjs using neo4j as database
 
 ## Installation
 
