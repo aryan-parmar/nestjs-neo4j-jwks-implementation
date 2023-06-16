@@ -10,7 +10,11 @@
 ## Installation
 
 ```bash
+#yarn
 $ yarn install
+
+#npm 
+$ npm install
 ```
 
 ## Running the app
